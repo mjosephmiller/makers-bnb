@@ -1,0 +1,22 @@
+{
+  "name": "test-makers-bnb",
+  "version": "1.0.0",
+  "description": "\"testing node for use in makers bnb challenge\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mjosephmiller/makers-bnb.git"
+  },
+  "author": "Michael Miller, Jess Astbury, Jason Luong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjosephmiller/makers-bnb/issues"
+  },
+  "homepage": "https://github.com/mjosephmiller/makers-bnb#readme",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
